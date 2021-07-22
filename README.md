@@ -5,7 +5,7 @@
 🎓📚 Formada em Comunicação Social e Pós-Graduada em Docência do ensino superior 
 
 👽 27 anos de curiosidade e inquietação 
-📍Sou de Recife - PE
+📍Recife - PE
 
 
 ## "O feito é melhor que o Perfeito" 🌍🌠🧠

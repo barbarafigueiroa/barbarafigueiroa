@@ -4,7 +4,7 @@
 
 🎓📚 Formada em Comunicação Social e Pós-Graduada em Docência do ensino superior 
 
-👽 27 anos de curiosidade e inquietação 
+👽 28 anos de Curiosidade e Inquietação.
 📍Recife - PE
 
 

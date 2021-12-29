@@ -22,7 +22,7 @@ A perfeição não existe, mas a persistência em acha-la leva ao êxito!
 
 ## Linguagens em Desenvolvimento 💻
 
-<img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://www.Javascript.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=blue&link=https://www.Java.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.HTML5.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.CSS3.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.TypeScript.com/in/barbara-figueiroa/">
+<img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://www.Javascript.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.TypeScript.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=blue&link=https://www.Java.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.HTML5.com/in/barbara-figueiroa/"> <img src = "https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.CSS3.com/in/barbara-figueiroa/"> 
 
 
 
